@@ -1,0 +1,7 @@
+name: danganronpa_simulator
+display_name: 弹丸论破互动模拟器
+short_desc: DR1 / DR2 / V3 分区互动、角色羁绊、原作礼物与群聊播报。
+desc: 弹丸论破互动模拟器，包含三作分区、角色互动、礼物扭蛋、羁绊剧情与自动播报。
+author: 未注明
+version: 0.3.11
+repo: ""
